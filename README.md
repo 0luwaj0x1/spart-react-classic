@@ -1,4 +1,4 @@
-# Spartez coding solution 
+# solution 
 
 Technology used:  React
 
