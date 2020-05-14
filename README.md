@@ -1,6 +1,6 @@
 # Spartez coding solution 
 
-Technology useD:  React
+Technology used:  React
 
 Below are the details of the code architecture, Decisions.
 
